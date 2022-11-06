@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Garima
 <!-- - 👀 I’m interested in  -->
-- 🌱 I’m currently learning Recommender Systems 
+- 🌱 I’m currently learning Workflow Management
 <!-- - 💞️ I’m looking to collaborate on business- -->
 - 📫 How to reach me : garimag8599@gmail.com
 
