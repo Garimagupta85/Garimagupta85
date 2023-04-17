@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Garima
+Welcome to my profile 👋 
 <!-- - 👀 I’m interested in  -->
 I’m currently Masters student concentrating in Data Science and statistics. My interest areas include NLP, Knowledge Graphs and Statistics.
 <!-- - 💞️ I’m looking to collaborate on business- -->
